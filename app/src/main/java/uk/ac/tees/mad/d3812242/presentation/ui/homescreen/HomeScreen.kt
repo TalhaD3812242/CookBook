@@ -61,7 +61,7 @@ fun HomeScreen(navHostController: NavHostController, signUpScreenViewModel: Sign
         Recipe(
             name = "Spiced Fried Chicken",
             description = "A delicious spiced fried chicken recipe perfect for all occasions.",
-            imageRes = R.drawable.fried_chicken_rice_img,
+            imageRes = R.drawable.beef_burger,
             rating = "4.5",
             ingredients = listOf(
                 "200 grams of chicken",
